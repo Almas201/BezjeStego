@@ -1,0 +1,10 @@
+@echo off
+
+set bmp_path=C:\Users\User01\Desktop\JOB\source-resized-interpolated\AA
+set log_file="interpolated-image-with-secret.txt"
+
+
+for %%i in (%bmp_path%\*.bmp) do java RS.RSAnalysis %%i >>%log_file%
+
+
+

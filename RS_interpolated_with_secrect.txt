@@ -1,0 +1,1598 @@
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res1.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res10.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res100.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res101.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res102.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res103.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res104.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res105.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res106.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res107.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res108.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res109.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res11.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res110.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res111.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res112.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res113.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res114.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res115.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res116.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res117.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res118.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res119.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res12.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res120.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res121.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res122.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res123.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res124.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res125.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res126.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res127.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res128.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res129.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res13.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res130.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res131.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res132.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res133.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res134.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res135.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res136.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res137.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res138.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res139.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res14.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res140.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res141.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res142.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res143.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res144.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res145.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res146.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res147.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res148.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res149.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res15.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res150.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res151.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res152.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res153.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res154.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res155.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res156.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res157.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res158.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res159.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res16.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res160.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res161.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res162.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res163.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res164.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res165.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res166.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res167.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res168.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res169.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res17.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res170.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res171.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res172.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res173.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res174.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res175.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res176.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res177.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res178.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res179.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res18.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res180.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res181.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res182.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res183.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res184.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res185.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res186.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res187.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res188.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res189.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res19.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res190.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res191.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res192.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res193.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res194.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res195.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res196.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res197.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res198.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res199.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res2.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res20.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res200.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res201.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res202.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res203.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res204.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res205.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res206.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res207.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res208.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res209.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res21.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res210.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res211.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res212.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res213.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res214.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res215.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res216.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res217.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res218.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res219.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res22.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res220.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res221.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res222.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res223.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res224.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res225.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res226.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res227.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res228.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res229.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res23.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res230.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res231.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res232.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res233.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res234.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res235.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res236.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res237.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res238.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res239.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res24.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res240.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res241.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res242.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res243.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res244.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res245.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res246.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res247.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res248.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res249.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res25.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res250.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res251.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res252.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res253.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res254.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res255.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res256.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res257.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res258.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res259.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res26.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res260.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res261.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res262.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res263.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res264.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res265.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res266.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res267.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res268.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res269.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res27.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res270.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res271.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res272.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res273.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res274.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res275.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res276.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res277.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res278.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res279.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res28.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res280.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res281.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res282.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res283.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res284.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res285.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res286.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res287.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res288.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res289.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res29.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res290.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res291.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res292.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res293.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res294.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res295.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res296.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res297.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res298.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res299.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res3.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res30.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res300.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res301.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res302.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res303.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res304.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res305.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res306.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res307.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res308.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res309.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res31.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res310.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res311.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res312.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res313.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res314.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res315.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res316.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res317.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res318.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res319.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res32.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res320.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res321.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res322.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res323.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res324.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res325.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res326.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res327.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res328.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res329.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res33.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res330.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res331.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res332.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res333.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res334.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res335.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res336.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res337.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res338.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res339.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res34.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res340.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res341.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res342.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res343.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res344.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res345.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res346.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res347.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res348.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res349.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res35.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res350.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res351.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res352.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res353.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res354.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res355.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res356.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res357.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res358.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res359.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res36.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res360.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res361.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res362.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res363.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res364.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res365.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res366.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res367.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res368.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res369.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res37.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res370.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res371.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res372.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res373.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res374.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res375.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res376.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res377.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res378.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res379.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res38.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res380.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res381.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res382.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res383.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res384.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res385.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res386.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res387.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res388.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res389.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res39.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res390.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res391.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res392.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res393.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res394.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res395.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res396.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res397.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res398.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res399.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res4.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res40.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res400.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res401.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res402.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res403.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res404.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res405.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res406.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res407.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res408.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res409.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res41.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res410.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res411.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res412.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res413.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res414.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res415.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res416.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res417.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res418.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res419.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res42.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res420.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res421.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res422.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res423.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res424.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res425.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res426.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res427.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res428.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res429.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res43.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res430.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res431.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res432.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res433.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res434.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res435.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res436.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res437.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res438.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res439.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res44.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res440.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res441.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res442.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res443.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res444.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res445.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res446.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res447.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res448.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res449.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res45.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res450.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res451.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res452.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res453.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res454.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res455.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res456.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res457.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res458.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res459.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res46.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res460.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res461.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res462.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res463.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res464.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res465.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res466.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res467.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res468.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res469.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res47.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res470.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res471.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res472.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res473.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res474.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res475.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res476.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res477.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res478.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res479.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res48.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res480.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res481.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res482.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res483.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res484.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res485.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res486.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res487.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res488.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res489.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res49.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res490.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res491.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res492.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res493.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res494.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res495.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res496.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res497.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res498.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res499.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res5.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res50.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res500.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res501.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res502.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res503.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res504.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res505.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res506.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res507.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res508.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res509.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res51.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res510.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res511.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res512.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res513.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res514.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res515.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res516.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res517.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res518.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res519.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res52.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res520.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res521.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res522.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res523.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res524.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res525.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res526.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res527.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res528.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res529.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res53.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res530.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res531.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res532.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res533.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res534.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res535.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res536.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res537.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res538.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res539.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res54.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res540.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res541.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res542.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res543.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res544.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res545.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res546.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res547.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res548.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res549.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res55.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res550.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res551.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res552.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res553.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res554.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res555.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res556.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res557.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res558.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res559.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res56.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res560.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res561.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res562.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res563.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res564.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res565.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res566.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res567.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res568.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res569.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res57.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res570.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res571.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res572.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res573.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res574.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res575.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res576.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res577.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res578.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res579.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res58.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res580.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res581.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res582.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res583.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res584.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res585.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res586.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res587.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res588.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res589.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res59.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res590.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res591.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res592.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res593.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res594.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res595.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res596.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res597.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res598.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res599.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res6.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res60.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res600.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res601.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res602.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res603.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res604.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res605.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res606.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res607.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res608.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res609.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res61.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res610.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res611.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res612.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res613.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res614.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res615.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res616.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res617.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res618.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res619.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res62.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res620.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res621.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res622.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res623.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res624.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res625.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res626.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res627.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res628.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res629.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res63.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res630.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res631.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res632.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res633.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res634.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res635.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res636.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res637.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res638.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res639.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res64.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res640.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res641.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res642.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res643.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res644.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res645.BMP 2
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res646.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res647.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res648.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res649.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res65.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res650.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res651.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res652.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res653.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res654.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res655.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res656.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res657.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res658.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res659.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res66.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res660.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res661.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res662.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res663.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res664.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res665.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res666.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res667.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res668.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res669.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res67.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res670.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res671.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res672.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res673.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res674.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res675.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res676.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res677.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res678.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res679.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res68.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res680.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res681.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res682.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res683.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res684.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res685.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res686.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res687.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res688.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res689.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res69.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res690.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res691.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res692.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res693.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res694.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res695.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res696.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res697.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res698.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res699.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res7.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res70.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res700.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res701.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res702.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res703.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res704.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res705.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res706.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res707.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res708.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res709.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res71.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res710.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res711.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res712.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res713.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res714.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res715.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res716.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res717.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res718.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res719.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res72.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res720.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res721.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res722.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res723.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res724.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res725.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res726.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res727.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res728.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res729.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res73.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res730.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res731.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res732.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res733.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res734.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res735.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res736.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res737.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res738.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res739.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res74.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res740.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res741.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res742.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res743.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res744.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res745.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res746.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res747.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res748.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res749.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res75.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res750.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res751.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res752.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res753.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res754.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res755.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res756.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res757.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res758.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res759.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res76.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res760.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res761.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res762.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res763.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res764.BMP 3
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res765.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res766.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res767.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res768.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res769.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res77.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res770.BMP 2
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res771.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res772.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res773.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res774.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res775.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res776.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res777.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res778.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res779.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res78.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res780.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res781.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res782.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res783.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res784.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res785.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res786.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res787.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res788.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res789.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res79.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res790.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res791.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res792.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res793.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res794.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res795.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res796.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res797.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res798.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res799.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res8.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res80.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res81.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res82.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res83.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res84.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res85.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res86.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res87.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res88.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res89.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res9.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res90.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res91.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res92.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res93.BMP 1
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res94.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res95.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res96.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res97.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res98.BMP 0
+
+Result: C:\Users\User01\Desktop\BezjeStego\res-img\res99.BMP 0
+
